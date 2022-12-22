@@ -1,6 +1,6 @@
 {
   "name": "react-oembed-container",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React container for locating and injecting oembed scripts in string content.",
   "main": "dist/index.js",
   "scripts": {
@@ -41,8 +41,8 @@
   },
   "browserslist": "> 0.25%, not dead",
   "peerDependencies": {
-    "react": "^16.2.0 || ^17.0.0",
-    "react-dom": "^16.2.0 || ^17.0.0"
+    "react": "^16.2.0 || ^17.0.0 || ^18",
+    "react-dom": "^16.2.0 || ^17.0.0 || ^18"
   },
   "dependencies": {
     "prop-types": "^15.6.0"
